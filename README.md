@@ -1,8 +1,5 @@
-# technical.challenge
 
-  Implementação teste técnico Localiza
-  
-# executar
+  # executar
 
   Existem 3 formas de executar o projeto:
   * 1 - Via console application executando o projeto console
@@ -24,11 +21,3 @@ compõem o número. 
 divisores primos que compõem o número. 
 
  
-• Já temos nossa funcionalidade principal. Contudo, você acaba de descobrir que essa
-funcionalidade vai ser usada em outros sistemas e, por isso, é necessário que seja
-disponibilizada um serviço que forneça as informações. Fique atento a: 
-• Performance 
-• Escalabilidade 
-• Disponibilidade 
-• Resiliência 
-• Robustez
